@@ -16,4 +16,4 @@ The below are some of the topics you can create or look on for or contribue your
 * Creating much more detailed explanation for subtopics that weren't covered previously in some README.
 * TYPOS
 
-Tip: create a PR if you have any other ideas of serving meaningful PR's, that will be very helpful.
+Tip: Create a PR if you have any other ideas of serving meaningful PR's, that will be very helpful.
